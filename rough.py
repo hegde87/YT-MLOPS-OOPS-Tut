@@ -3,7 +3,11 @@ my_str = "mlops playlist"
 my_int = 155
 
 # print(type(my_int))
+# print(type(lst))
 # lst.capitalize()
+# my_str = my_str.capitalize()
+
+print(lst)
 # my_str = my_str.capitalize()
 
 # print(lst)
@@ -12,9 +16,9 @@ my_int = 155
 # b = 'y'
 # print(a+b)
 
-from oops_proj import chatbook
-user1 = chatbook()
-print(user1.id)
+# from oops_proj import chatbook
+# user1 = chatbook()
+# print(user1.id)
 
 
 
