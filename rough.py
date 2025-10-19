@@ -1,29 +1,35 @@
-lst = [1,2,3]
-my_str = "mlops playlist"
-my_int = 155
+# lst = [1,2,3]
+# my_str = "mlops playlist"
+# my_int = 155
 
-# print(type(my_int))
-# print(type(lst))
-# lst.capitalize()
-# my_str = my_str.capitalize()
-
-print(lst)
-# my_str = my_str.capitalize()
+# # print(type(my_int))
+# # print(type(lst))
+# # lst.capitalize()
+# # my_str = my_str.capitalize()
 
 # print(lst)
+# # my_str = my_str.capitalize()
 
-# a = 'x'
-# b = 'y'
-# print(a+b)
+# # print(lst)
 
-# from oops_proj import chatbook
+# # a = 'x'
+# # b = 'y'
+# # print(a+b)
+
+from oops_proj import chatbook
+user1 = chatbook()
+user1.
+# # # print(user1.id)
+
+# lst = [1,2,3]
+
+# #function 
+# a1 = len(lst)
+# print(a1)
+
+# #method
 # user1 = chatbook()
-# print(user1.id)
-
-
-
-
-
+# user1.sendmsg()
 
 
 # Using static method directly from class rather than obj

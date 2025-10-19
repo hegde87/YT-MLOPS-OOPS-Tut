@@ -16,6 +16,6 @@
     > self
     > You can create attribute outside class as well
 
-    > encapsulation
-    > getter and setter
+    > encapsulation     # To hide the attribute
+    > getter and setter # to get the hidden attribute and get the hidden attribute
     > static method
