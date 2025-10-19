@@ -19,3 +19,16 @@
     > encapsulation     # To hide the attribute
     > getter and setter # to get the hidden attribute and get the hidden attribute
     > static method
+
+6. Inhertance
+    >Inhertance code example
+    >why Inhertance is needed? (code reusability, parent has no access to child class)
+    >what gets inherited? --> Constructor, Non private attributes, non private methods
+    >Constructor overloading & method overloading
+    >Super keyword(can be used only inside class, can not access varaibles/attributes, used only inside child class)
+    >Type of Inhertance 
+        >1. Single Inhertance
+        >2. Multilvel
+        >3. Hirearchical
+        >4. Multiple 
+        >5. Hybrid 
